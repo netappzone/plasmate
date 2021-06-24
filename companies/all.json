@@ -1,0 +1,44 @@
+{
+  "message": "success",
+  "data":[
+    {
+      "id": "1",
+      "title": "Full Service Lawn Care",
+      "min_price": 50.00,
+      "max_price": 150.00,
+      "rate": 4.1,
+      "total_reviews": 50,
+      "available": true,
+      "image": "http://lorempixel.com/200/200/business/2/"
+    },
+    {
+      "id": "2",
+      "title": "Full Service Lawn Care",
+      "min_price": 60.2,
+      "max_price": 150.2,
+      "rate": 3.2,
+      "total_reviews": 50,
+      "available": false,
+      "image": "http://lorempixel.com/200/200/business/6/"
+    },{
+      "id": "3",
+      "title": "Full Service Lawn Care",
+      "min_price": 16.1,
+      "max_price": 150.1,
+      "rate": 5.0,
+      "total_reviews": 50,
+      "available": false,
+      "image": "http://lorempixel.com/200/200/business/8/"
+    },
+    {
+      "id": "4",
+      "title": "Full Service Lawn Care",
+      "min_price": 7643.50,
+      "max_price": 150.8,
+      "rate": 4.5,
+      "total_reviews": 50,
+      "available": false,
+      "image": "http://lorempixel.com/400/200/business/5/"
+    }
+  ]
+}
